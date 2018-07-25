@@ -1,0 +1,4 @@
+if ( like cricket = 'yes')
+echo " sachin"
+else
+echo "goto school"
