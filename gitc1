@@ -4,4 +4,4 @@ echo "eat pizza"
 else
 if (thirsty=yes)
 echo "drink water"
-
+echo "drink soda"
