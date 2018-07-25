@@ -1,5 +1,6 @@
 if (hungry=yes)
 echo "eat samosa"
 echo "eat pizza"
+echo "eat fries"
 else
 echo "do homework"
